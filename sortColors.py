@@ -1,4 +1,4 @@
-# Two pointer approach
+# 1-> Two pointer approach
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         # move all reds(0) to left
